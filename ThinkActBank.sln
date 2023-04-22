@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkActBank", "ThinkActBank\ThinkActBank.csproj", "{55AB3B1B-ABF7-4A84-A8D9-218084736522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55AB3B1B-ABF7-4A84-A8D9-218084736522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AB3B1B-ABF7-4A84-A8D9-218084736522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AB3B1B-ABF7-4A84-A8D9-218084736522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AB3B1B-ABF7-4A84-A8D9-218084736522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6128547-5C38-47C7-A9F3-D16B820DA1A7}
+	EndGlobalSection
+EndGlobal
